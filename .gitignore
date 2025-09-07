@@ -1,0 +1,19 @@
+# dependencias
+node_modules/
+
+# compilados
+dist/
+
+# configuraciones locales
+.env
+*.env
+
+# bases de datos locales
+data/*.db
+
+# logs
+logs/
+*.log
+
+# sistema
+.DS_Store
