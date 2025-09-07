@@ -1,0 +1,9 @@
+{
+  "name": "local-mcp-server",
+  "command": "node",
+  "args": ["dist/index.js"],
+  "env": {
+    "MCP_ALLOWED_DIRS": "docs,reports,data",
+    "DB_PATH": "./data/app.db"
+  }
+}
