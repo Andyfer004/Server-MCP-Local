@@ -17,3 +17,7 @@ logs/
 
 # sistema
 .DS_Store
+
+reports/*
+models/*
+docs/*
